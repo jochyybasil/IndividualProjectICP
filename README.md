@@ -2,9 +2,9 @@
 This project contains a program for my Intermediate Computer Programming class.
 The program helps users to identify the shortest way to travel from one airport to another.
 
-In my work, I use the Graph data structure and the java collections Lists and HashMaps.
+In my work, I use the hashmap as the main data structure and the java collections Lists.
 
-The algorithm used to find the shortest travel route is the uniform cost search.
+The algorithm used to find the shortest travel route is the breath-first search.
 
 The main function can be found in Main.java.
 
